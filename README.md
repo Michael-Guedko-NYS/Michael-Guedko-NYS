@@ -2,7 +2,7 @@
   
 - 💻 I'm proficient in Javascript and C#, and I'm always eager to learn new technologies and expand my skillset.
   
-- 🏢 Currently, I'm working on AI Chatbots(Telephony & Text).
+- 🏢 Currently, I'm working on AI Chatbots (Telephony & Text).
   
 - 🌱 I'm constantly learning and growing as a developer. Some of my current focuses include:
   - Google Cloud - Vertex AI
