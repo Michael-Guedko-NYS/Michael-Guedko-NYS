@@ -6,7 +6,7 @@
   
 - 🌱 I'm constantly learning and growing as a developer. Some of my current focuses include:
   - Google Cloud - Vertex AI
-  
+  - Dialogflow CX
 - 🖨️ When I'm not coding, you can find me tinkering with my 3D printer, bringing my ideas to life one layer at a time.
 
 <!---
