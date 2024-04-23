@@ -5,7 +5,7 @@
 - 🏢 Currently, I'm working on AI Chatbots(Telephony & Text).
   
 - 🌱 I'm constantly learning and growing as a developer. Some of my current focuses include:
-  Google Cloud - Vertex AI
+  - Google Cloud - Vertex AI
   
 - 🖨️ When I'm not coding, you can find me tinkering with my 3D printer, bringing my ideas to life one layer at a time.
 
